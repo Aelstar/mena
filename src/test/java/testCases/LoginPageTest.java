@@ -28,7 +28,12 @@ public class LoginPageTest extends Config_Setup{
 		login.getTitle();
 
 	}
+@Test(enabled=true)
+	public void Test1() throws Exception {
 
+	System.out.println("mennn");
+
+	}
 
 	@Test(enabled=true)
 	public void Test2() {
